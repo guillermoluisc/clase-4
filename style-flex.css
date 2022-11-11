@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+
+
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.item{
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
