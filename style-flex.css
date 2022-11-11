@@ -14,9 +14,13 @@
 .item{
     color:white;
     display: flex;
-    justify-content: center;
+
     align-items: center;
-    flex-direction: column;
-    
+    flex-direction: column;  
+}
+#quis{
+    width: 80px;
+    display: flex;
+    justify-content: flex-end;
 }
 
